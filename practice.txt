@@ -1,3 +1,9 @@
 Hi Steph
 
 I'm not Will, NOT
+
+// To merge a branch into another branch
+// Go over the the branch YOU WANT TO MERGE into
+// Click the three ... on the top of the source control window
+// Click merge
+// Click the branch you want to bring into the current branch
